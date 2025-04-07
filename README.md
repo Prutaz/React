@@ -42,7 +42,7 @@ A modern React application that helps you discover recipes based on ingredients 
    npm run dev
    ```
 
-6. Open your browser and navigate to `http://localhost:5173/`
+6. Open your browser and navigate to `http://localhost:port/`
 
 ## Demo Mode
 
